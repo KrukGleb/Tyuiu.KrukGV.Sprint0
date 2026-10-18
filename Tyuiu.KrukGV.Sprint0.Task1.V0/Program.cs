@@ -13,7 +13,7 @@ namespace Tyuiu.KrukGV.Sprint0.Task1.V0
             Console.WriteLine("Hello, World");
             string name = "Глеб";
             int age = 24;
-            Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " года!");
+            Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " лет.");
 
             Console.ReadKey();
         }
